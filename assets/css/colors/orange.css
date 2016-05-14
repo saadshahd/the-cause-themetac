@@ -1,0 +1,174 @@
+::selection {
+	background: #d56f00;
+	color: #fff;
+}
+::-moz-selection {
+ background: #d56f00;
+ color: #fff;
+}
+
+#main_header,
+.header_social_icons a:hover,
+.main_nav li:hover,
+.main_nav li.current-menu-item,
+#main_slider .slide_second_title,
+#main_slider .control-nav a,
+.works .item_title,
+.works .item_head,
+.works .post_link:hover,
+.works .post_zoom:hover,
+.massege,
+.feedback .quote,
+.recent_blog .post_type,
+.recent_blog .post_quote_head,
+.blog_posts .post_type,
+.blog_posts .post_quote_head,
+#main_slider .direction-nav a:hover,
+.accordion dd,
+.feedback .triangle:after,
+.totop,
+.block_head:after,
+.mejs-container,
+.mejs-controls .mejs-time-rail .mejs-time-current,
+.mejs-horizontal-volume-current,
+.top_footer .widget_recent_posts .post_title:hover,
+.widget_flickr .flickr_badge_image:hover,
+.top_footer .widget_tags .tags_cloud a:hover,
+.top_footer .widget_twitter_feed li:hover,
+.top_footer .widget_newsletter button:hover .button_icon,
+.top_footer .widget_list li a:hover,
+.top_footer .widget_pages li a:hover,
+.widget_search button:hover,
+.widget_social_counter a:hover .item_shape,
+.widget_featured_video .icon_play:after,
+.blog_posts .icon_play:after,
+.breadcrumb,
+.page_info .page_search button:hover,
+.block_not_found .not_found_text,
+.block_not_found .not_found_search button ,
+.progress_bar .meter_percentage span,
+.portfolio_slider .paging .active,
+.portfolio_slider .thumbnails li,
+.block_simple_slider .control-paging .active,
+.our_team2 .member_title,
+.blog_posts .post_gallery_head .control-nav .active,
+.blog_posts .post_gallery_head .direction-nav a:hover,
+.sidebar .widget_title:after,
+.sidebar .widget_search button,
+.widget_posts_tabs .tabs_header .active a,
+.sidebar .widget_newsletter .button_icon,
+.pagination a:hover,
+.pagination .current,
+#coming_countdown .dash,
+.coming_newsletter .button_icon,
+.entry_tabs .tabs_header .active a { background-color: #f28f23; }
+
+.header_social_icons a,
+.header_links a,
+.header_search button,
+.main_nav ul ul li:hover > a,
+.news_ticker .ticker_title,
+.news_ticker li:hover .icon_goto,
+.news_ticker li:hover .post_title,
+.block_title,
+.block_item:hover .icon_triangle_bottom,
+.service .item_icon,
+.works .item_type,
+.block_item .item_meta a:hover,
+.full_row .direction-nav a,
+.recent_blog .post_title:hover,
+.recent_blog .read_more:hover,
+.blog_posts .post_title:hover,
+.blog_posts .read_more:hover,
+.blog_posts .post:hover .icon_play,
+.recent_products .product_title:hover,
+.our_team .member_title:hover,
+.our_team .member_social a:hover,
+.accordion .active,
+.accordion_icon,
+.feedback .author_info a,
+.widget_title,
+.widget_contact_us button,
+#footer_social_icons a,
+.top_footer .widget_newsletter .button_icon,
+.top_footer .widget_login button,
+.widget_rated_products ins,
+.widget_featured_video .icon_video,
+.widget_featured_video .first_video:hover .icon_play,
+.widget_featured_video .video:hover .icon_play,
+.not_found_number,
+.page_info .page_title h1,
+.page_info .page_search button,
+.block_twitter_feed li:hover .icon_twitter,
+.color_highlight,
+.entry .video_icon,
+.sidebar .widget_search input,
+.sidebar .widget_list li a:hover,
+.widget_posts_tabs .post:hover .post_icon,
+.widget_posts_tabs .post:hover .post_title,
+.widget_posts_tabs .post_meta a:hover,
+.sidebar .widget_newsletter input,
+.sidebar .widget_posts_list .post_title:hover,
+.sidebar .widget_tags .tags_cloud a:hover,
+.sidebar .widget_twitter_feed a:hover,
+.sidebar .widget_login input,
+.sidebar .widget_featured_video .video_head a:hover,
+.coming_soon .coming_title,
+.coming_newsletter input,
+.contact_place .contact_name,
+.contact_form input,
+.contact_form textarea { color: #f28f23; }
+
+.header_search input {
+	background-color: #d98426;
+	background-color: rgba(0,0,0,0.1);
+}
+
+.our_team .image_overlay:after,
+.accordion .active,
+.accordion .active .accordion_icon,
+.feedback img,
+#main_footer_head,
+#content_attractant,
+.block_item:hover,
+.block_twitter_feed li:hover,
+.sidebar .widget_search form,
+.widget_posts_tabs .widget_head,
+.sidebar .widget_newsletter input,
+.sidebar .widget_newsletter button:before,
+.sidebar .widget_login .input_wrap,
+.coming_newsletter input,
+.coming_newsletter button:before,
+.contact_form input,
+.contact_form textarea,
+.entry_tabs .tabs_header { border-color: #f28f23; }
+
+#main_header .bottom_header_bg,
+.our_team .image_overlay:before,
+.bottom_footer li:hover:before,
+.bottom_footer .current-menu-item:before { border-top-color: #f28f23; }
+
+.block_item:hover,
+.massege,
+.feedback .quote,
+.feedback .triangle:before,
+.block_not_found .not_found_text,
+.block_twitter_feed li:hover {
+	-webkit-box-shadow: 0 1px 8px #f28f23;
+	-moz-box-shadow: 0 1px 8px #f28f23;
+	box-shadow: 0 1px 8px #f28f23;
+}
+.contact_form input:focus,
+.contact_form textarea:focus {
+	-webkit-box-shadow: 0 0 2px #f28f23;
+	-moz-box-shadow: 0 0 2px #f28f23;
+	box-shadow: 0 0 2px #f28f23;
+}
+@media only screen and (max-width : 1015px) {
+	.header_social_icons .icon_search,
+	#show_res_menu { background-color: #f28f23; }
+	.main_res_nav li:hover,
+	.main_res_nav li:hover > a,
+	.main_res_nav .current-menu-item,
+	.main_res_nav .current-menu-item > a { color: #f28f23; }
+}
